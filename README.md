@@ -13,13 +13,13 @@
             Backend </br>
         </b>
     </h3>
-        *** Descargar el proyecto y en la raiz del proyecto [ npm install ] </br>
-        *** Una vez instaladas las depeniencias [ npm run dev ], la aplicación de backend corre en el puerto 4000 </br>
+    *** Descargar el proyecto y en la raiz del proyecto [ npm install ] </br>
+    *** Una vez instaladas las depeniencias [ npm run dev ], la aplicación de backend corre en el puerto 4000 </br>
     <h3>
         <b>
             Frontend </br>
         </b>
-        *** Ingresar a la carpeta react y correr el comando [ npm install ] </br>
-        *** Una vez instaladas las depeniencias [ npm run dev ], la aplicación de backend corre en el puerto 3000 </br>
     </h3>
+    *** Ingresar a la carpeta react y correr el comando [ npm install ] </br>
+    *** Una vez instaladas las depeniencias [ npm run dev ], la aplicación de backend corre en el puerto 3000 </br>
 </p>
